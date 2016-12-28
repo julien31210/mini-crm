@@ -8,7 +8,8 @@
 - Faire un `npm install`
 - Ouvrir les devtools du navigateur
 - Modifier que `index.html` & `app.js` pas de css perso.
-- Utiliser Semantic UI pour le positionnement des éléments "Enjoy !" 
+- Utiliser Semantic UI pour le positionnement des éléments "Enjoy !"
+- Utiliser `caddy` et  `browser-sync`
 
 > **WARNING** : Ne pas supprimer les scripts et les links fournis dans `index.html`
 
