@@ -4,6 +4,7 @@
 
 #### Étape 1 : 
 
+- avant de clone FORK ME !
 - Faire un `npm install`
 - Ouvrir les devtools du navigateur
 - Modifier que `index.html` & `app.js` pas de css perso.
