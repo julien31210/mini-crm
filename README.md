@@ -11,7 +11,7 @@
 - Utiliser Semantic UI pour le positionnement des éléments "Enjoy !"
 - Utiliser `caddy` et  `browser-sync`
 
-> **WARNING** : Ne pas supprimer les scripts et les links fournis dans `index.html`
+> **WARNING** : Ne pas supprimer les __scripts__ et les __links__ fournis dans `index.html`
 
 #### Étape 2 :
 
